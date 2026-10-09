@@ -1,4 +1,4 @@
-# NT219-CK30-NYU-CTF-Benchmark-LLMs-in-Offensive-Security
+# NT521-NYU-CTF-Benchmark-LLMs-in-Offensive-Security
 
 Tài liệu này hướng dẫn cách thiết lập và chạy repo `llm_ctf_automation` với endpoint OpenAI-compatible của 9router 
 
